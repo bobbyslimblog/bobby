@@ -1,2 +1,10 @@
-"firstName"
-"firstName" + "awesome"
+"open file"
+"bin-open";
+bin-close
+
+Frame "width"
+Frame "height"
+# button "install" = "folder"
+
+Task end;
+
